@@ -1,0 +1,10 @@
+Django==5.2
+djangorestframework==3.16.0
+djangorestframework_simplejwt==5.5.0
+psycopg2-binary==2.9.10
+django-cors-headers==4.7.0
+PyJWT
+django-filter==25.1
+python-dotenv==1.1.0
+drf-yasg==1.21.10
+Faker==37.1.0
