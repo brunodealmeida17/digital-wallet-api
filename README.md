@@ -183,6 +183,3 @@ digital_wallet_api/
 
 ---
 
-## 📚 Licença
-Este projeto está licenciado sob a licença BSD - veja o arquivo LICENSE para detalhes.
-
