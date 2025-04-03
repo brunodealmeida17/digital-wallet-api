@@ -64,7 +64,7 @@ API completa para gerenciamento de carteiras digitais e transações financeiras
 ### Desenvolvimento Local com Docker
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/digital-wallet-api.git
+   git clone https://github.com/brunodealmeida17/digital-wallet-api
    cd digital-wallet-api
    ```
 2. Crie o arquivo de ambiente:
